@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --windowed --icon "D:/Coding/GitHub/Random_password_generator/icons/password.ico" --add-data "D:/Coding/GitHub/Random_password_generator/icons;icons/"  "D:/Coding/GitHub/Random_password_generator/Random_password_generator.py"
